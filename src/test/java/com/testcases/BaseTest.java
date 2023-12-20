@@ -19,7 +19,7 @@ public class BaseTest {
 		driver.findElement(By.xpath("//textarea[@name='q']")).submit();
 		
 		//I am from eclipse
-		
+		//I am from git
 	}
 
 
